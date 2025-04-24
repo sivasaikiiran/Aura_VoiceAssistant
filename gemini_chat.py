@@ -2,7 +2,7 @@ import google.generativeai as genai
 from speak_engine import speak, listen
 
 def start_gemini_chat():
-    genai.configure(api_key="AIzaSyAnMCJzLTSLmXWZ-vRa0c4-aZsPNDXCung")
+    genai.configure(api_key="replace_gemini_API_key")
     model = genai.GenerativeModel("gemini-1.5-flash")
     chat = model.start_chat()
 
