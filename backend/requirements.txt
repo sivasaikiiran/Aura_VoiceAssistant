@@ -1,0 +1,19 @@
+# Voice processing
+pyttsx3==2.90
+SpeechRecognition==3.10.0
+PyAudio==0.2.13
+
+# Document handling
+python-docx==0.8.11
+PyMuPDF==1.22.5
+PyQt5==5.15.9
+
+# Web and API integrations
+selenium==4.15.2
+google-api-python-client==2.107.0
+google-auth-httplib2==0.1.1
+google-auth-oauthlib==1.1.0
+google-generativeai==0.3.1
+
+# System utilities
+psutil==5.9.6
