@@ -281,8 +281,8 @@ We welcome contributions! Here's how you can help:
 ### Development Setup
 ```bash
 # Fork the repository
-git clone https://github.com/yourusername/aura-voice-assistant.git
-cd aura-voice-assistant
+git clone https://github.com/sivasaikiiran/Aura_VoiceAssistant.git
+cd Aura_VoiceAssistant
 
 # Create virtual environment
 python -m venv venv
