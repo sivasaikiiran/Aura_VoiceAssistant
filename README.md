@@ -57,8 +57,8 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/aura-voice-assistant.git
-   cd aura-voice-assistant
+   git clone https://github.com/sivasaikiiran/Aura_VoiceAssistant.git
+   cd Aura_VoiceAssistant
    ```
 
 2. **Install Dependencies**
